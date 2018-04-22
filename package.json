@@ -4,9 +4,11 @@
   "version": "0.1.0",
   "description": "A tool for writing literate code in Atom.",
   "keywords": [
+    "literate",
+    "press"
   ],
   "activationCommands": {
-    "atom-workspace": "press-atom:toggle"
+    "atom-workspace": "press-atom:addCodeBlock"
   },
   "repository": "https://github.com/izuchukwu/press-atom",
   "license": "MIT",
