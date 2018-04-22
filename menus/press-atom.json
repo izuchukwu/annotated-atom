@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle press-atom",
-        "command": "press-atom:toggle"
+        "label": "Add Code Block",
+        "command": "press-atom:addCodeBlock"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "press-atom",
+          "label": "Press",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "press-atom:toggle"
+              "label": "Add Code Block",
+              "command": "press-atom:addCodeBlock"
             }
           ]
         }

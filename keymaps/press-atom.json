@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "press-atom:toggle"
+    "cmd-`": "press-atom:addCodeBlock"
   }
 }
