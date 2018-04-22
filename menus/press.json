@@ -1,9 +1,9 @@
 {
   "context-menu": {
-    "atom-text-editor": [
+    "atom-text-editor[data-grammar='source gfm']": [
       {
         "label": "Add Code Block",
-        "command": "press-atom:addCodeBlock"
+        "command": "press:add-code-block"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Add Code Block",
-              "command": "press-atom:addCodeBlock"
+              "command": "press:add-code-block"
             }
           ]
         }

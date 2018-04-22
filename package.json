@@ -1,6 +1,6 @@
 {
-  "name": "press-atom",
-  "main": "./lib/press-atom",
+  "name": "press",
+  "main": "./lib/press",
   "version": "0.1.0",
   "description": "A tool for writing literate code in Atom.",
   "keywords": [
@@ -8,7 +8,7 @@
     "press"
   ],
   "activationCommands": {
-    "atom-workspace": "press-atom:addCodeBlock"
+    "atom-workspace": "press:add-code-block"
   },
   "repository": "https://github.com/izuchukwu/press-atom",
   "license": "MIT",
