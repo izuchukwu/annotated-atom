@@ -1,5 +1,5 @@
 {
-  "name": "press",
+  "name": "annotated",
   "main": "./lib/annotated",
   "version": "0.2.1",
   "description": "A tool for writing literate code in Atom.",
