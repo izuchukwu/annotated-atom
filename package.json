@@ -12,7 +12,7 @@
   "activationCommands": {
     "atom-workspace": "annotated:add-code-block"
   },
-  "repository": "https://github.com/izuchukwu/press-atom",
+  "repository": "https://github.com/izuchukwu/annotated-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
