@@ -1,7 +1,7 @@
 {
   "name": "annotated",
   "main": "./lib/annotated",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "A tool for writing annotated code in Atom.",
   "keywords": [
     "annotated",
