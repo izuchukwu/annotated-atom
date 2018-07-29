@@ -3,7 +3,7 @@
     "atom-text-editor[data-grammar='source gfm']": [
       {
         "label": "Add Code Block",
-        "command": "press:add-code-block"
+        "command": "annotated:add-code-block"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "Press",
+          "label": "Annotated",
           "submenu": [
             {
               "label": "Add Code Block",
-              "command": "press:add-code-block"
+              "command": "annotated:add-code-block"
             }
           ]
         }

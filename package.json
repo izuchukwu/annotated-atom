@@ -1,16 +1,18 @@
 {
   "name": "press",
-  "main": "./lib/press",
+  "main": "./lib/annotated",
   "version": "0.2.1",
   "description": "A tool for writing literate code in Atom.",
   "keywords": [
-    "literate",
-    "press"
+    "annotated",
+    "annotate",
+    "annotation",
+    "literate"
   ],
   "activationCommands": {
-    "atom-workspace": "press:add-code-block"
+    "atom-workspace": "annotated:add-code-block"
   },
-  "repository": "https://github.com/izuchukwu/press-atom",
+  "repository": "https://github.com/izuchukwu/annotated-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
